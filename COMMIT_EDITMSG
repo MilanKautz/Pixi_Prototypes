@@ -1,0 +1,34 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .gitignore
+#	new file:   .parcelrc
+#	new file:   LICENSE
+#	new file:   README.md
+#	new file:   docs/index.6eb60d7f.js
+#	new file:   docs/index.6eb60d7f.js.map
+#	new file:   docs/index.aa612c11.css
+#	new file:   docs/index.aa612c11.css.map
+#	new file:   docs/index.e689200c.js
+#	new file:   docs/index.e689200c.js.map
+#	new file:   docs/index.f349dea5.css
+#	new file:   docs/index.f349dea5.css.map
+#	new file:   docs/index.html
+#	new file:   docs/player.30a39b2d.png
+#	new file:   docs/player.b2c195e8.png
+#	new file:   globals.d.ts
+#	new file:   package-lock.json
+#	new file:   package.json
+#	new file:   src/css/style.css
+#	new file:   src/images/player.png
+#	new file:   src/index.html
+#	new file:   src/ts/app.ts
+#	new file:   src/ts/game.ts
+#	new file:   src/ts/player.ts
+#
